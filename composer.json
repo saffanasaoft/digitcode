@@ -2,6 +2,13 @@
     "name": "digitcode/digitcodeflazz",
     "description": "Digitcode Client Bwallet",
     "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Digitcode",
+            "email": "digitcodestudio@gmail.com"
+        }
+    ],
     "require": {
         "guzzlehttp/guzzle": "^7.0"
     },
@@ -9,7 +16,6 @@
         "phpunit/phpunit": "^9.5",
         "orchestra/testbench": "^6.23"
     },
-    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Digitcode\\Digitcodeflazz\\": "src/"
