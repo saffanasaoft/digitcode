@@ -1,6 +1,6 @@
 <?php
 
-namespace Digitcode\Digitcodeflazz;
+namespace Digitcode\Digitcodeflazz\Commands;
 
 use Illuminate\Console\Command;
 use Digitcode\Digitcodeflazz\Exceptions\DigitcodeException;

@@ -2,9 +2,9 @@
 
 namespace Digitcode\Digitcodeflazz;
 
+use Digitcode\Digitcodeflazz\Commands\TopupCommand;
 use GuzzleHttp\Client;
 use Illuminate\Support\ServiceProvider;
-use Digitcode\Digitcodeflazz\TopupCommand;
 
 class DigitcodeServiceProvider extends ServiceProvider
 {
